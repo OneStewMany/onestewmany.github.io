@@ -1,37 +1,6 @@
-.html
+.html, .container
 {
     box-sizing: border-box;
     padding: 0;
     margin: auto;
-}
-
-#Main-heading
-{
-    font-size: 50px;
-    font-family: Arial, Helvetica, sans-serif;
-
-}
-
-#topNav 
-{
-    overflow: hidden;
-    background-color: rgb(75, 126, 192);
-}
-
-#topNav ul
-{
-    list-style-type: none;
-}
-
-#topNav li 
-{
-    
-}
-
-#topNav a
-{
-    float: left;
-    text-decoration: none;
-    margin-right: 12px;
-    color: rgb(0,0,0);
 }
