@@ -3,3 +3,10 @@
     padding: 0;
     margin: auto;
 }
+
+#Main-heading
+{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
