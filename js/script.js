@@ -1,7 +1,7 @@
 console.log("Hello World");
 
-var button = document.getElementById('dont-click-button');
+var dontClickButton = document.getElementById('dont-click');
 
-button.addEventListener('click', function(){
-    alert('I said don\'t click me');
+dontClickButton.addEventListener('click', function(){
+    alert('I said don\'t click');
 });

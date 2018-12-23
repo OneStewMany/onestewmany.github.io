@@ -1,5 +1,6 @@
 .html
 {
+    box-sizing: border-box;
     padding: 0;
     margin: auto;
 }
@@ -8,5 +9,27 @@
 {
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
-    
+
+}
+
+#topNav 
+{
+    overflow: hidden;
+}
+
+#topNav ul
+{
+    list-style-type: none;
+}
+
+#topNav li 
+{
+    padding: 5px;
+}
+
+#topNav a
+{
+    float: left;
+    text-decoration: none;
+    color: rgb(0,0,0);
 }
