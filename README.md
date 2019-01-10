@@ -1,2 +1,2 @@
-# JS-Website
-A website for my learning
+#James Stewman Website
+This is website will mostly be used for learning
