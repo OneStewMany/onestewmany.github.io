@@ -4,3 +4,17 @@
     padding: 0;
     margin: auto;
 }
+
+.btn 
+{
+    border: none;
+    color: rgb(7,37,255);
+    text-decoration: none;
+}
+
+.btn:hover
+{
+    border: 2px;
+    color: rgb(173,5,255);
+    text-decoration: none;
+}
